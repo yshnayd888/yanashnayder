@@ -23,3 +23,4 @@ shortTitle: View blocked users in org
 - "[AUTOTITLE](/communities/maintaining-your-safety-on-github/blocking-a-user-from-your-organization)"
 - "[AUTOTITLE](/communities/maintaining-your-safety-on-github/unblocking-a-user-from-your-organization)"
 - "[AUTOTITLE](/communities/maintaining-your-safety-on-github/viewing-users-youve-blocked-from-your-personal-account)"
+- revoke
